@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "dev": "wrangler pages dev",
-    "deploy": "wrangler pages deploy --branch production"
+    "deploy": "wrangler pages deploy"
   },
   "keywords": [],
   "author": "",
